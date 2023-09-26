@@ -1,4 +1,5 @@
 package com.mahagan.beans;
+//getter and setter here
   
 public class Emp {  
 private int id;  
